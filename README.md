@@ -1,4 +1,4 @@
-# bert-based polar code noise reduction and hamming code decoding.  
+# bert-based polar code noise denoising and hamming code decoding.  
 
 bert is widely used in NLP problems. But we can consider hamming code decoding as a process of translation. Considering this, I try to use transformer solving code     decoding problem, which including polar code channel decoding and hamming code decoding.
 ### Here's the whole process of my code.
